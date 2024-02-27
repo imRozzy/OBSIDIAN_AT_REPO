@@ -1,8 +1,10 @@
 {
 	"nodes":[
-		{"id":"46c925dde5ec2431","x":-600,"y":-380,"width":640,"height":380,"type":"link","url":"https://www.youtube.com/watch?v=mrq0KOPa-lY"},
-		{"id":"d05a54595414ab57","x":79,"y":-360,"width":250,"height":60,"type":"text","text":"blender nauka"},
-		{"id":"64fd920ed51d09a7","x":160,"y":-280,"width":250,"height":60,"type":"text","text":"8bit music"}
+		{"id":"46c925dde5ec2431","type":"link","url":"https://www.youtube.com/watch?v=mrq0KOPa-lY","x":-600,"y":-380,"width":640,"height":380},
+		{"id":"d05a54595414ab57","type":"text","text":"blender nauka","x":79,"y":-360,"width":250,"height":60},
+		{"id":"64fd920ed51d09a7","type":"text","text":"8bit music","x":160,"y":-280,"width":250,"height":60},
+		{"id":"4befb1622022fe8a","type":"file","file":"wszystkie obrazy/Ustrein.png","x":79,"y":-100,"width":761,"height":571},
+		{"id":"8b57b87f411d41ec","x":-725,"y":117,"width":250,"height":138,"type":"text","text":"ekran ladowania\npostac idzie\nbrum brum"}
 	],
 	"edges":[]
 }

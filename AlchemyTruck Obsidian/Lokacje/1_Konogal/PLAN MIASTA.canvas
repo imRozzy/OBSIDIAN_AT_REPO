@@ -1,6 +1,25 @@
 {
 	"nodes":[
-		{"id":"ac0d256b95489d71","x":-547,"y":-300,"width":250,"height":60,"type":"text","text":""}
+		{"id":"d40cd5241bde1408","type":"group","x":-1220,"y":100,"width":700,"height":400,"label":"Centrum miasta"},
+		{"id":"4927d3a64edae13f","type":"group","x":-1840,"y":594,"width":620,"height":440,"label":"Plaża"},
+		{"id":"91e5751ecb50d681","type":"group","x":-1020,"y":671,"width":626,"height":286,"label":"Las/obrzeża"},
+		{"id":"e757a18b576e2ce4","type":"text","text":"market wielobranżowy","x":-1200,"y":120,"width":250,"height":60},
+		{"id":"b77b84040469668e","type":"text","text":"pralnia","x":-1200,"y":320,"width":250,"height":60},
+		{"id":"28b37079bd0f0992","type":"text","text":"liceum","x":-1200,"y":420,"width":250,"height":60},
+		{"id":"a0715b6045092fca","x":-1200,"y":220,"width":250,"height":60,"type":"text","text":"sklep z ubraniami"},
+		{"id":"f23a50a7548e0ec8","x":-910,"y":120,"width":250,"height":60,"type":"text","text":"park"},
+		{"id":"ae7553142d141e11","x":-910,"y":220,"width":250,"height":60,"type":"text","text":"dom"},
+		{"id":"8abb51ff319469f9","type":"text","text":"dom postaci","x":-1820,"y":634,"width":250,"height":60},
+		{"id":"97af6c1d6cbb3a1c","type":"text","text":"dom 2","x":-1820,"y":723,"width":250,"height":60},
+		{"id":"0856431912f61be5","x":-1820,"y":827,"width":250,"height":60,"type":"text","text":"plaża"},
+		{"id":"757abf255661a422","type":"text","text":"foodtruck - obok stoi, więc parking","x":-1820,"y":937,"width":250,"height":60},
+		{"id":"022dc7c057fa6fce","x":-1520,"y":631,"width":250,"height":60,"type":"text","text":"jaskinia"},
+		{"id":"636e4f6ea9c25c24","type":"text","text":"stacja paliw","x":-1000,"y":691,"width":250,"height":60},
+		{"id":"cedd6912214d1e81","type":"text","text":"dom 1","x":-714,"y":691,"width":250,"height":60},
+		{"id":"d2fb267cbe3ddcaf","type":"text","text":"restauracja","x":-1000,"y":777,"width":250,"height":60},
+		{"id":"3b9e340911fb87d1","type":"text","text":"las","x":-1000,"y":857,"width":250,"height":60},
+		{"id":"6320a56b2df71fb4","x":-714,"y":777,"width":250,"height":60,"type":"text","text":"wieża ciśnień"},
+		{"id":"ac0d256b95489d71","type":"text","text":"Parking - foodtruck stoi sobie","x":-910,"y":320,"width":250,"height":60}
 	],
 	"edges":[]
 }
