@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lokacje/Konogal/PLAN MIASTA.canvas",
+                "file": "Lokacje/1_Konogal/Konogal board.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 106,
+                  "y": -460.5,
+                  "zoom": -0.6732435088949178
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lokacje/Konogal/PLAN MIASTA.canvas",
+                "file": "Lokacje/1_Konogal/Konogal board.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lokacje/Konogal/PLAN MIASTA.canvas",
+                "file": "Lokacje/1_Konogal/Konogal board.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lokacje/Konogal/PLAN MIASTA.canvas"
+                "file": "Lokacje/1_Konogal/Konogal board.canvas"
               }
             }
           }
@@ -149,19 +149,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03d84cec6dec2bd5",
+  "active": "f72d7bbdf888198a",
   "lastOpenFiles": [
-    "AT_OBSIDIAN",
-    "Lokacje/Konogal/Konogal board.canvas",
-    "Lokacje/Konogal/PLAN MIASTA.canvas",
-    "Lokacje/Konogal/PLAN MIASTA.md",
+    "Lokacje/1_Konogal/PLAN MIASTA.canvas",
+    "Lokacje/1_Konogal/Konogal board.canvas",
+    "Lokacje/2_Corsarn/Corsarn board.canvas",
+    "Crafting/Recipe Book.md",
+    "Crafting/Ingredientssss.canvas",
     "Item List - icons needed.md",
+    "AT_OBSIDIAN",
+    "Lokacje/Konogal/PLAN MIASTA.md",
     "Sprites List.md",
     "AAAAA/NOTATKI.canvas",
     "Inspiracje/Sprites and Icons.canvas",
-    "Crafting/Ingredientssss.canvas",
-    "Crafting/Recipe Book.md",
-    "Lokacje/Corsarn/Corsarn board.canvas",
     "Inspiracje/Ogólne inspiracje.canvas",
     "wszystkie obrazy/2c1350b3e5d5694359927b82155eed1b.jpg",
     "wszystkie obrazy/91c31809826c7fd7563ae0a3dcd072d0.jpg",
@@ -183,8 +183,7 @@
     "Składniki/Rośliny.md",
     "Untitled 1",
     "Crafting",
-    "Lokacje/Corsarn",
-    "Lokacje/Konogal",
+    "Lokacje/2_Corsarn",
     "Ogólne inspiracje.md",
     "Welcome.md"
   ]
