@@ -6,7 +6,7 @@
       {
         "id": "fc5249a9c34cae10",
         "type": "tabs",
-        "dimension": 76.13365155131265,
+        "dimension": 70.76372315035799,
         "children": [
           {
             "id": "9618edccc90ff1c0",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "Lokacje/1_Konogal/PLAN MIASTA.canvas",
                 "viewState": {
-                  "x": -1117,
-                  "y": 567,
-                  "zoom": -0.31794274693618346
+                  "x": -1027.1745899349366,
+                  "y": 803.5108173527299,
+                  "zoom": -2.0370256920726226
                 }
               }
             }
@@ -28,7 +28,7 @@
       {
         "id": "f93a4d44df852cdc",
         "type": "tabs",
-        "dimension": 23.86634844868735,
+        "dimension": 29.236276849642007,
         "children": [
           {
             "id": "03d84cec6dec2bd5",
@@ -38,9 +38,9 @@
               "state": {
                 "file": "Lokacje/1_Konogal/Konogal board.canvas",
                 "viewState": {
-                  "x": -19.528589669798727,
-                  "y": -591.0817596011422,
-                  "zoom": -1.44066299177784
+                  "x": 253.79500293505953,
+                  "y": -989.2028571428572,
+                  "zoom": -2.2036806003544185
                 }
               }
             }
@@ -174,23 +174,24 @@
   },
   "active": "9618edccc90ff1c0",
   "lastOpenFiles": [
-    "AAAAA/NOTATKI.canvas",
-    "wszystkie obrazy/Pasted image 20240227193157.png",
-    "wszystkie obrazy/Pasted image 20240227193040.png",
-    "wszystkie obrazy/d8sxcyw-afa40167-1bdb-42ef-93ac-cb487593b0ef.gif",
-    "wszystkie obrazy/Pasted image 20240227193007.png",
-    "Pasted image 20240227193003.png",
+    "Pasted image 20240227195154.png",
+    "wszystkie obrazy/Pasted image 20240227194603.png",
     "Lokacje/1_Konogal/PLAN MIASTA.canvas",
+    "wszystkie obrazy/Pasted image 20240227194749.png",
     "Lokacje/1_Konogal/Konogal board.canvas",
+    "wszystkie obrazy/Pasted image 20240227194024.png",
+    "wszystkie obrazy/Pasted image 20240227194252.png",
+    "wszystkie obrazy/Pasted image 20240227194134.png",
+    "wszystkie obrazy/Pasted image 20240227194122.png",
+    "wszystkie obrazy/Pasted image 20240227194054.png",
+    "wszystkie obrazy/Pasted image 20240227194035.png",
+    "wszystkie obrazy/Pasted image 20240227193800.png",
+    "wszystkie obrazy/Pasted image 20240227193957.png",
+    "AAAAA/NOTATKI.canvas",
     "Lokacje/2_Corsarn/Corsarn board.canvas",
     "TRUCK/inspriacje.canvas",
     "Inspiracje/Sprites and Icons.canvas",
     "Crafting/Recipe Book.md",
-    "wszystkie obrazy/Ustrein.png",
-    "wszystkie obrazy/Pasted image 20240227190725.png",
-    "wszystkie obrazy/Pasted image 20240227190604.png",
-    "wszystkie obrazy/Pasted image 20240227190713.png",
-    "wszystkie obrazy/Pasted image 20240227190643.png",
     "TRUCK",
     "Crafting/Ingredientssss.canvas",
     "Inspiracje/Ogólne inspiracje.canvas",
