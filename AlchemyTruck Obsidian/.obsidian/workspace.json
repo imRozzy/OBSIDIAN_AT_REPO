@@ -6,7 +6,7 @@
       {
         "id": "fc5249a9c34cae10",
         "type": "tabs",
-        "dimension": 60.62052505966587,
+        "dimension": 76.13365155131265,
         "children": [
           {
             "id": "9618edccc90ff1c0",
@@ -14,11 +14,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "AAAAA/NOTATKI.canvas",
+                "file": "Lokacje/1_Konogal/PLAN MIASTA.canvas",
                 "viewState": {
-                  "x": -210.03888214876008,
-                  "y": 62.7721739931435,
-                  "zoom": -0.640671933307444
+                  "x": -1117,
+                  "y": 567,
+                  "zoom": -0.31794274693618346
                 }
               }
             }
@@ -28,7 +28,7 @@
       {
         "id": "f93a4d44df852cdc",
         "type": "tabs",
-        "dimension": 39.37947494033413,
+        "dimension": 23.86634844868735,
         "children": [
           {
             "id": "03d84cec6dec2bd5",
@@ -40,7 +40,7 @@
                 "viewState": {
                   "x": -19.528589669798727,
                   "y": -591.0817596011422,
-                  "zoom": -1.1073296584445067
+                  "zoom": -1.44066299177784
                 }
               }
             }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAAAA/NOTATKI.canvas",
+                "file": "Lokacje/1_Konogal/PLAN MIASTA.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAAAA/NOTATKI.canvas",
+                "file": "Lokacje/1_Konogal/PLAN MIASTA.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AAAAA/NOTATKI.canvas"
+                "file": "Lokacje/1_Konogal/PLAN MIASTA.canvas"
               }
             }
           }
@@ -174,9 +174,14 @@
   },
   "active": "9618edccc90ff1c0",
   "lastOpenFiles": [
+    "AAAAA/NOTATKI.canvas",
+    "wszystkie obrazy/Pasted image 20240227193157.png",
+    "wszystkie obrazy/Pasted image 20240227193040.png",
+    "wszystkie obrazy/d8sxcyw-afa40167-1bdb-42ef-93ac-cb487593b0ef.gif",
+    "wszystkie obrazy/Pasted image 20240227193007.png",
+    "Pasted image 20240227193003.png",
     "Lokacje/1_Konogal/PLAN MIASTA.canvas",
     "Lokacje/1_Konogal/Konogal board.canvas",
-    "AAAAA/NOTATKI.canvas",
     "Lokacje/2_Corsarn/Corsarn board.canvas",
     "TRUCK/inspriacje.canvas",
     "Inspiracje/Sprites and Icons.canvas",
@@ -186,12 +191,7 @@
     "wszystkie obrazy/Pasted image 20240227190604.png",
     "wszystkie obrazy/Pasted image 20240227190713.png",
     "wszystkie obrazy/Pasted image 20240227190643.png",
-    "wszystkie obrazy/Pasted image 20240227190635.png",
-    "wszystkie obrazy/Pasted image 20240227190629.png",
-    "wszystkie obrazy/Pasted image 20240227190623.png",
-    "wszystkie obrazy/Pasted image 20240227190617.png",
     "TRUCK",
-    "Pasted image 20240227190441.png",
     "Crafting/Ingredientssss.canvas",
     "Inspiracje/Ogólne inspiracje.canvas",
     "Item List - icons needed.md",

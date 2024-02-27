@@ -4,7 +4,11 @@
 		{"id":"d05a54595414ab57","type":"text","text":"blender nauka","x":79,"y":-360,"width":250,"height":60},
 		{"id":"64fd920ed51d09a7","type":"text","text":"8bit music","x":160,"y":-280,"width":250,"height":60},
 		{"id":"4befb1622022fe8a","type":"file","file":"wszystkie obrazy/Ustrein.png","x":79,"y":-100,"width":761,"height":571},
-		{"id":"8b57b87f411d41ec","x":-725,"y":117,"width":250,"height":138,"type":"text","text":"ekran ladowania\npostac idzie\nbrum brum"}
+		{"id":"8b57b87f411d41ec","type":"text","text":"ekran ladowania\npostac idzie\nbrum brum","x":-725,"y":117,"width":250,"height":138},
+		{"id":"0b099b3cbed6df48","type":"file","file":"wszystkie obrazy/d8sxcyw-afa40167-1bdb-42ef-93ac-cb487593b0ef.gif","x":-725,"y":255,"width":168,"height":168},
+		{"id":"4ef6607f26ef4a02","type":"text","text":"truck ma świadomość","x":-340,"y":225,"width":250,"height":60},
+		{"id":"4e19c19447c700be","type":"file","file":"wszystkie obrazy/Pasted image 20240227193157.png","x":-300,"y":322,"width":186,"height":186},
+		{"id":"0c92cc69e95dab9b","type":"file","file":"wszystkie obrazy/Pasted image 20240227193007.png","x":-522,"y":241,"width":182,"height":182}
 	],
 	"edges":[]
 }
