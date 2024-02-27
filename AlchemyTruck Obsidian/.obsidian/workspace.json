@@ -4,8 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "9ae674549c886020",
+        "id": "fc5249a9c34cae10",
         "type": "tabs",
+        "dimension": 80.60859188544153,
+        "children": [
+          {
+            "id": "c79f9f0e25875614",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "wszystkie obrazy/Pasted image 20240227190725.png"
+              }
+            }
+          },
+          {
+            "id": "9618edccc90ff1c0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Lokacje/1_Konogal/PLAN MIASTA.canvas",
+                "viewState": {
+                  "x": -15,
+                  "y": -90,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f93a4d44df852cdc",
+        "type": "tabs",
+        "dimension": 19.391408114558473,
         "children": [
           {
             "id": "03d84cec6dec2bd5",
@@ -15,9 +49,9 @@
               "state": {
                 "file": "Lokacje/1_Konogal/Konogal board.canvas",
                 "viewState": {
-                  "x": 106,
-                  "y": -460.5,
-                  "zoom": -0.6732435088949178
+                  "x": -10.845690169730254,
+                  "y": -408.8117506397201,
+                  "zoom": -2.3399101755615845
                 }
               }
             }
@@ -88,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lokacje/1_Konogal/Konogal board.canvas",
+                "file": "Lokacje/1_Konogal/PLAN MIASTA.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lokacje/1_Konogal/Konogal board.canvas",
+                "file": "Lokacje/1_Konogal/PLAN MIASTA.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lokacje/1_Konogal/Konogal board.canvas"
+                "file": "Lokacje/1_Konogal/PLAN MIASTA.canvas"
               }
             }
           }
@@ -149,31 +183,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f72d7bbdf888198a",
+  "active": "9618edccc90ff1c0",
   "lastOpenFiles": [
+    "TRUCK/Untitled.canvas",
+    "wszystkie obrazy/Pasted image 20240227190725.png",
+    "wszystkie obrazy/Pasted image 20240227190604.png",
+    "wszystkie obrazy/Pasted image 20240227190713.png",
+    "wszystkie obrazy/Pasted image 20240227190643.png",
+    "wszystkie obrazy/Pasted image 20240227190635.png",
+    "wszystkie obrazy/Pasted image 20240227190629.png",
+    "wszystkie obrazy/Pasted image 20240227190623.png",
+    "wszystkie obrazy/Pasted image 20240227190617.png",
     "Lokacje/1_Konogal/PLAN MIASTA.canvas",
+    "TRUCK",
+    "Pasted image 20240227190441.png",
     "Lokacje/1_Konogal/Konogal board.canvas",
-    "Lokacje/2_Corsarn/Corsarn board.canvas",
     "Crafting/Recipe Book.md",
     "Crafting/Ingredientssss.canvas",
+    "AAAAA/NOTATKI.canvas",
+    "Pasted image 20240227185521.png",
+    "Inspiracje/Ogólne inspiracje.canvas",
+    "Lokacje/2_Corsarn/Corsarn board.canvas",
     "Item List - icons needed.md",
     "AT_OBSIDIAN",
     "Lokacje/Konogal/PLAN MIASTA.md",
     "Sprites List.md",
-    "AAAAA/NOTATKI.canvas",
     "Inspiracje/Sprites and Icons.canvas",
-    "Inspiracje/Ogólne inspiracje.canvas",
-    "wszystkie obrazy/2c1350b3e5d5694359927b82155eed1b.jpg",
-    "wszystkie obrazy/91c31809826c7fd7563ae0a3dcd072d0.jpg",
-    "wszystkie obrazy/f306d7ca23e0ad411522b8610a4ee8b1.jpg",
-    "wszystkie obrazy/696bca58e406ee8c9aa960c4aded30a9.jpg",
-    "wszystkie obrazy/b872c78d35517225d914095a3a88a653.jpg",
-    "wszystkie obrazy/cf1a27aded28af84fbed64e8a65ef27d.jpg",
-    "wszystkie obrazy/71688fbd966facf55d22246b9057e57d.jpg",
-    "wszystkie obrazy/3eac5a6196181c1d88349b9b61098c20.jpg",
-    "wszystkie obrazy/c8a3d453317a32d611566bcd0a32fef4.jpg",
-    "wszystkie obrazy/f7b7959093d0fb470d4f4f2d2b080023.jpg",
-    "Untitled",
     "AAAAA",
     "NOTES",
     "8BIT AAAA",
