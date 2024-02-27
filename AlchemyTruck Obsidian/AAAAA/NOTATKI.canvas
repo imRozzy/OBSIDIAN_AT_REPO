@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"46c925dde5ec2431","x":-600,"y":-380,"width":640,"height":380,"type":"link","url":"https://www.youtube.com/watch?v=mrq0KOPa-lY"},
+		{"id":"d05a54595414ab57","x":79,"y":-360,"width":250,"height":60,"type":"text","text":"blender nauka"},
+		{"id":"64fd920ed51d09a7","x":160,"y":-280,"width":250,"height":60,"type":"text","text":"8bit music"}
+	],
+	"edges":[]
+}

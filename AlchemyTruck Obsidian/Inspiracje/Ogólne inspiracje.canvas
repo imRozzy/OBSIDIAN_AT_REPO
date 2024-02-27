@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"75f9f037e5724dea","type":"file","file":"wszystkie obrazy/image (1).png","x":1185,"y":-320,"width":400,"height":280},
+		{"id":"39f141ae6831d362","type":"file","file":"wszystkie obrazy/image (4).png","x":1182,"y":-5,"width":399,"height":223},
+		{"id":"e95c63eb64d80cef","type":"file","file":"wszystkie obrazy/image (2).png","x":1599,"y":-237,"width":306,"height":400},
+		{"id":"5e58aac911bdd298","type":"file","file":"wszystkie obrazy/image (9).png","x":41,"y":257,"width":265,"height":400},
+		{"id":"35037a462dbfec76","type":"file","file":"wszystkie obrazy/image (6).png","x":333,"y":202,"width":316,"height":400},
+		{"id":"0255491e16623abd","type":"file","file":"wszystkie obrazy/image (7).png","x":-37,"y":-179,"width":342,"height":400},
+		{"id":"89e32b5b15f1ac96","type":"file","file":"wszystkie obrazy/image (8).png","x":332,"y":-234,"width":291,"height":399},
+		{"id":"e88aa1201ce51971","type":"file","file":"wszystkie obrazy/image (5).png","x":956,"y":289,"width":400,"height":297},
+		{"id":"7c4d7f5d0ee0a2d2","type":"file","file":"wszystkie obrazy/image (13).png","x":720,"y":692,"width":399,"height":230},
+		{"id":"227069052f7bfb53","type":"file","file":"wszystkie obrazy/image (12).png","x":833,"y":940,"width":399,"height":230},
+		{"id":"24001c8d9029d1e8","type":"file","file":"wszystkie obrazy/image (10).png","x":1207,"y":638,"width":399,"height":254},
+		{"id":"7c3060deed79b1ea","type":"file","file":"wszystkie obrazy/image (11).png","x":1302,"y":920,"width":400,"height":226},
+		{"id":"9e0819b9f9ec7dd9","type":"file","file":"wszystkie obrazy/palette 1.png","x":1905,"y":338,"width":400,"height":300},
+		{"id":"73155339284f3901","type":"file","file":"wszystkie obrazy/palette 3.png","x":1976,"y":690,"width":400,"height":300},
+		{"id":"ce5238e6cd979594","type":"file","file":"wszystkie obrazy/palette 4.png","x":2357,"y":338,"width":400,"height":300},
+		{"id":"5f88bf2bd4fe82ac","type":"file","file":"wszystkie obrazy/palette 5.png","x":2430,"y":690,"width":400,"height":300},
+		{"id":"7c0618e245ae46e1","type":"file","file":"wszystkie obrazy/palette 6.png","x":2819,"y":398,"width":400,"height":300},
+		{"id":"fb3b8afb922738d2","type":"file","file":"wszystkie obrazy/image (3).png","x":873,"y":-205,"width":283,"height":400},
+		{"id":"f547565000c5634f","type":"link","url":"https://pl.pinterest.com/schoolofplot/","x":2240,"y":-550,"width":1200,"height":627},
+		{"id":"5573a91cfae48f0c","type":"link","url":"https://schoolofplot.com/","x":3280,"y":-236,"width":880,"height":516}
+	],
+	"edges":[]
+}

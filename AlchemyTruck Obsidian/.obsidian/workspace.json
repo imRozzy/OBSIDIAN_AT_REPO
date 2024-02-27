@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "51369b90d3be0666",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ae674549c886020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03d84cec6dec2bd5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Lokacje/Konogal/PLAN MIASTA.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb453dfef599d324",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fcc56a342db87f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f72d7bbdf888198a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2421747b3343c418",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c203775b137b6bc9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "acbdb8c3be5619e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "173d3253c34d3c9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67995fd437831efb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lokacje/Konogal/PLAN MIASTA.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1a7a0513f7b4ee3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lokacje/Konogal/PLAN MIASTA.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1eea014c1a030367",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1a4ceeb1b3c698d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lokacje/Konogal/PLAN MIASTA.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "03d84cec6dec2bd5",
+  "lastOpenFiles": [
+    "AT_OBSIDIAN",
+    "Lokacje/Konogal/Konogal board.canvas",
+    "Lokacje/Konogal/PLAN MIASTA.canvas",
+    "Lokacje/Konogal/PLAN MIASTA.md",
+    "Item List - icons needed.md",
+    "Sprites List.md",
+    "AAAAA/NOTATKI.canvas",
+    "Inspiracje/Sprites and Icons.canvas",
+    "Crafting/Ingredientssss.canvas",
+    "Crafting/Recipe Book.md",
+    "Lokacje/Corsarn/Corsarn board.canvas",
+    "Inspiracje/Ogólne inspiracje.canvas",
+    "wszystkie obrazy/2c1350b3e5d5694359927b82155eed1b.jpg",
+    "wszystkie obrazy/91c31809826c7fd7563ae0a3dcd072d0.jpg",
+    "wszystkie obrazy/f306d7ca23e0ad411522b8610a4ee8b1.jpg",
+    "wszystkie obrazy/696bca58e406ee8c9aa960c4aded30a9.jpg",
+    "wszystkie obrazy/b872c78d35517225d914095a3a88a653.jpg",
+    "wszystkie obrazy/cf1a27aded28af84fbed64e8a65ef27d.jpg",
+    "wszystkie obrazy/71688fbd966facf55d22246b9057e57d.jpg",
+    "wszystkie obrazy/3eac5a6196181c1d88349b9b61098c20.jpg",
+    "wszystkie obrazy/c8a3d453317a32d611566bcd0a32fef4.jpg",
+    "wszystkie obrazy/f7b7959093d0fb470d4f4f2d2b080023.jpg",
+    "Untitled",
+    "AAAAA",
+    "NOTES",
+    "8BIT AAAA",
+    "BLENDER HALO/Untitled",
+    "BLENDER HALO",
+    "Crafting/Recipes.canvas",
+    "Składniki/Rośliny.md",
+    "Untitled 1",
+    "Crafting",
+    "Lokacje/Corsarn",
+    "Lokacje/Konogal",
+    "Ogólne inspiracje.md",
+    "Welcome.md"
+  ]
+}

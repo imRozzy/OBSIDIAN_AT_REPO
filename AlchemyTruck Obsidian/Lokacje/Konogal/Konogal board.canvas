@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"05e9d0df402c1f76","type":"file","file":"wszystkie obrazy/21c3640c3c2344a6252c53af7f392b9d.jpg","x":-620,"y":-774,"width":400,"height":316},
+		{"id":"ca2d28f298999c48","type":"file","file":"wszystkie obrazy/9a73a526d7a686b7bb95c234c2de54c2.jpg","x":-300,"y":-536,"width":400,"height":266},
+		{"id":"576913930eeffadc","type":"file","file":"wszystkie obrazy/f3cafece53de7920e4b22168e5d6a0c8.jpg","x":-460,"y":-1074,"width":400,"height":300},
+		{"id":"0ee3e4cefa8e7556","type":"file","file":"wszystkie obrazy/484a2958f72920d7dfb4c22b84ccb04f.jpg","x":-60,"y":-1152,"width":400,"height":269},
+		{"id":"2597a09d8234f1dc","type":"file","file":"wszystkie obrazy/0d83b63e51c32248d3f40a86faf61ae0.jpg","x":-100,"y":-883,"width":399,"height":267},
+		{"id":"b58451da82642a91","type":"file","file":"wszystkie obrazy/5d1de0c5581d4f68f5174671e37cbaba.jpg","x":-920,"y":-961,"width":400,"height":267},
+		{"id":"b7c58dfc66ba0f51","type":"file","file":"wszystkie obrazy/ad709257e85cd6db3d702ad004042724.jpg","x":-720,"y":-458,"width":400,"height":263},
+		{"id":"a6c1cceb37610208","type":"file","file":"wszystkie obrazy/palette 3.png","x":-271,"y":-695,"width":211,"height":158},
+		{"id":"ffd1c9afdfbff406","type":"file","file":"wszystkie obrazy/b7f1b1dfb69b6c24fc9c18edb4c419c6.jpg","x":40,"y":-225,"width":400,"height":226},
+		{"id":"f5d98345dbeb0842","type":"file","file":"wszystkie obrazy/0ecdaed9b7dfc0c14eb7e24c97560c49.jpg","x":339,"y":-934,"width":400,"height":399},
+		{"id":"2acfaf8e97fd6d1c","type":"file","file":"wszystkie obrazy/75afbf50f720a2bcf1461a6ae8167d90.jpg","x":365,"y":-668,"width":399,"height":267},
+		{"id":"4b95fd296195e431","type":"file","file":"wszystkie obrazy/e8411539e1d1fe88434c0355c6fcf5df.jpg","x":783,"y":-883,"width":297,"height":297},
+		{"id":"08dd92cbc2753273","type":"file","file":"wszystkie obrazy/245d4deb6024f3dfe83a46029f86691e.jpg","x":732,"y":-525,"width":400,"height":300},
+		{"id":"de737ee8e21d53fd","type":"file","file":"wszystkie obrazy/e73dff63ebc2ef6f188245689a723b21.jpg","x":411,"y":-169,"width":308,"height":400},
+		{"id":"3753a3943689419e","type":"text","text":"historia na billboardzie, STORYTELLING SHIT","x":215,"y":-28,"width":250,"height":59}
+	],
+	"edges":[]
+}

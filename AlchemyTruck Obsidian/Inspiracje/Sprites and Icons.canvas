@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"4fedbf8bd38d9bcd","type":"file","file":"Item List - icons needed.md","x":-580,"y":-400,"width":500,"height":960},
+		{"id":"a54b30d859bae8c2","type":"file","file":"Sprites List.md","x":640,"y":-400,"width":480,"height":960},
+		{"id":"0c0918c7c0387c50","type":"file","file":"wszystkie obrazy/3b6073a9c167815124ebddd617d92d72.jpg","x":-40,"y":-420,"width":140,"height":139},
+		{"id":"2799e850a7bcc897","type":"file","file":"wszystkie obrazy/54c8dbbf213b839e71f5bd92885d94a4.jpg","x":120,"y":-400,"width":140,"height":224},
+		{"id":"349ff0e44ec19231","type":"file","file":"wszystkie obrazy/Pasted image 20240223170809.png","x":-43,"y":-240,"width":129,"height":180},
+		{"id":"8c490d72e42941ec","type":"file","file":"wszystkie obrazy/88f0afe0ca9dfb99c6f1ebc7a8ae40f1.jpg","x":100,"y":-150,"width":160,"height":228},
+		{"id":"d1f5ef0f8f13a3d1","type":"file","file":"wszystkie obrazy/6bd96b5bc13753aa944f147e1feb0a4e.jpg","x":-43,"y":-36,"width":190,"height":190},
+		{"id":"a024f194de3a9d83","type":"file","file":"wszystkie obrazy/69c65a98b76ce57fbe17fa742596636a.jpg","x":180,"y":20,"width":185,"height":200},
+		{"id":"dd24cf0d8c9487a0","type":"file","file":"wszystkie obrazy/f422b1ba86c6d94af6134f463f8f16a1.jpg","x":285,"y":-224,"width":160,"height":244},
+		{"id":"9b13bfd65140dcb3","type":"file","file":"wszystkie obrazy/arslan-shyriiev-line-up.jpg","x":-20,"y":200,"width":400,"height":221},
+		{"id":"6426cf2f3c118a2c","type":"file","file":"wszystkie obrazy/83f4454ac11b9043dabb4dc23a556853.jpg","x":-23,"y":421,"width":150,"height":159},
+		{"id":"d4bade14514f3823","type":"file","file":"wszystkie obrazy/a1e13927667d368a638debdbb2e0b8ea.jpg","x":445,"y":154,"width":260,"height":217},
+		{"id":"1175854af4d8e7d9","type":"file","file":"wszystkie obrazy/c9a73c58369277a0214424ab38a0ccf2.jpg","x":322,"y":20,"width":153,"height":169},
+		{"id":"7556845b891e8503","type":"file","file":"wszystkie obrazy/8d57eced0229ec2ef8957f66e50401fe.jpg","x":165,"y":451,"width":310,"height":258},
+		{"id":"1eda0a1a770de8fd","type":"file","file":"wszystkie obrazy/5425303b77154a18608c3d1c72801bf9.jpg","x":562,"y":400,"width":226,"height":320},
+		{"id":"8a561d50e8ade316","type":"file","file":"wszystkie obrazy/14747c1490b38bedfe9e166384410ee0.jpg","x":462,"y":-176,"width":200,"height":183},
+		{"id":"bf0b52c68f9bbab9","type":"file","file":"wszystkie obrazy/f7b7959093d0fb470d4f4f2d2b080023.jpg","x":299,"y":-400,"width":133,"height":169},
+		{"id":"704a4ce2b28c57d4","type":"file","file":"wszystkie obrazy/2c1350b3e5d5694359927b82155eed1b.jpg","x":-80,"y":528,"width":181,"height":181},
+		{"id":"fcb9301e044133c9","type":"file","file":"wszystkie obrazy/c8a3d453317a32d611566bcd0a32fef4.jpg","x":462,"y":-440,"width":200,"height":200},
+		{"id":"af74572fcec64163","type":"file","file":"wszystkie obrazy/3eac5a6196181c1d88349b9b61098c20.jpg","x":517,"y":36,"width":117,"height":87},
+		{"id":"049384a1d6dbe721","type":"file","file":"wszystkie obrazy/71688fbd966facf55d22246b9057e57d.jpg","x":-151,"y":105,"width":128,"height":179},
+		{"id":"7512dac17462cf69","type":"file","file":"wszystkie obrazy/cf1a27aded28af84fbed64e8a65ef27d.jpg","x":-250,"y":-475,"width":209,"height":111},
+		{"id":"bd621bcacf30a9b3","type":"file","file":"wszystkie obrazy/b872c78d35517225d914095a3a88a653.jpg","x":-151,"y":-368,"width":107,"height":160},
+		{"id":"f9d6983e1d8c9de0","type":"file","file":"wszystkie obrazy/696bca58e406ee8c9aa960c4aded30a9.jpg","x":-257,"y":-162,"width":170,"height":242},
+		{"id":"938ee0678852670a","type":"file","file":"wszystkie obrazy/f306d7ca23e0ad411522b8610a4ee8b1.jpg","x":-240,"y":300,"width":160,"height":200},
+		{"id":"7ed7afcaa72f614f","type":"file","file":"wszystkie obrazy/91c31809826c7fd7563ae0a3dcd072d0.jpg","x":-309,"y":125,"width":139,"height":139}
+	],
+	"edges":[]
+}
