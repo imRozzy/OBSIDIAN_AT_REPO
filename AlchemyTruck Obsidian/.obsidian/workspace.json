@@ -16,9 +16,9 @@
               "state": {
                 "file": "Lokacje/1_Konogal/PLAN MIASTA.canvas",
                 "viewState": {
-                  "x": -2512.7243243666053,
-                  "y": 368.03904371903013,
-                  "zoom": -1.9999999999999998
+                  "x": -2339.803191076872,
+                  "y": 199.47917132300336,
+                  "zoom": -2.3816026911255266
                 }
               }
             }
@@ -174,11 +174,13 @@
   },
   "active": "9618edccc90ff1c0",
   "lastOpenFiles": [
+    "wszystkie obrazy/Konogal.png",
+    "TRUCK/inspriacje.canvas",
+    "Lokacje/1_Konogal/PLAN MIASTA.canvas",
+    "Lokacje/1_Konogal/Konogal board.canvas",
+    "Lokacje/2_Corsarn/Corsarn board.canvas",
     "wszystkie obrazy/korsarn.png",
     "AAAAA/NOTATKI.canvas",
-    "Lokacje/1_Konogal/Konogal board.canvas",
-    "Lokacje/1_Konogal/PLAN MIASTA.canvas",
-    "TRUCK/inspriacje.canvas",
     "wszystkie obrazy/track_kun.png",
     "Inspiracje/Sprites and Icons.canvas",
     "Crafting/Ingredientssss.canvas",
@@ -191,8 +193,6 @@
     "wszystkie obrazy/Pasted image 20240227194134.png",
     "wszystkie obrazy/Pasted image 20240227194122.png",
     "wszystkie obrazy/Pasted image 20240227194054.png",
-    "wszystkie obrazy/Pasted image 20240227194035.png",
-    "Lokacje/2_Corsarn/Corsarn board.canvas",
     "TRUCK",
     "Inspiracje/Ogólne inspiracje.canvas",
     "Item List - icons needed.md",
