@@ -128,23 +128,14 @@ Cold Mix is possible to craft if the player has:
 ## Recipe Book content:
 For those who don't want to destroy their teeth (or don't have any) with pomegranate seeds.
 
-Ingredients: pomegranate seeds, blender, bowl, water, sieve, medium jar, spoon,
+Ingredients: pomegranate seeds, pot, bowl, water, sieve, medium jar, spoon,
 
-Cut the fruit in half
-Place one half in your hand with the opened end facing your palm
-Using the back of a wooden spoon, tap the skin of the pomegranate until most of the seeds have fallen out.
-Fill a large bowl with cool water
-Break apart the pomegranate arils underneath the water. 
-Drain the water from the pomegranate arils when you’re done separating them from the rind.
-Pour the arils into a blender. Blend until all the arils have been crushed but most of the seeds are still in tact. This usually takes no more than 15 to 20 seconds.
-Pour the juice into a jar through a sieve. To speed up the process, use a spoon to press the pulp against the sieve. 
-Store in cold place.
-## Crafting recipe:
+https://www.netto.pl/przepisy/zdrowe-odzywianie/jak-wycisnac-sok-z-granatu/
 
 Pomegranate Juice is possible to craft if the player has:
 - knife (truck inventory, one use removed)
-- blender (truck inventory, one use removed)
 - bowl (truck inventory or player inventory, removed from the inventory)
+- pot (truck inventory, one use removed)
 - sieve (truck inventory, one use removed)
 - 1 medum jar (truck inventory or player inventory, removed from the inventory)
 - spoon (truck inventory, one use removed)

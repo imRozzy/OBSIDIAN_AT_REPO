@@ -8,7 +8,8 @@
 		{"id":"0b099b3cbed6df48","type":"file","file":"wszystkie obrazy/d8sxcyw-afa40167-1bdb-42ef-93ac-cb487593b0ef.gif","x":-725,"y":255,"width":168,"height":168},
 		{"id":"4ef6607f26ef4a02","type":"text","text":"truck ma świadomość","x":-340,"y":225,"width":250,"height":60},
 		{"id":"4e19c19447c700be","type":"file","file":"wszystkie obrazy/Pasted image 20240227193157.png","x":-300,"y":322,"width":186,"height":186},
-		{"id":"0c92cc69e95dab9b","type":"file","file":"wszystkie obrazy/Pasted image 20240227193007.png","x":-522,"y":241,"width":182,"height":182}
+		{"id":"0c92cc69e95dab9b","type":"file","file":"wszystkie obrazy/Pasted image 20240227193007.png","x":-522,"y":241,"width":182,"height":182},
+		{"id":"f51868e477b4ad06","x":-364,"y":-720,"width":250,"height":118,"type":"text","text":"na razie zamiast ikonek kwadraty z nazwami, które potem podmienimy obrazkami?"}
 	],
 	"edges":[]
 }

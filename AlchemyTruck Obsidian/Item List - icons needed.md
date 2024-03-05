@@ -6,7 +6,6 @@ Big Jar
 Medium Jar
 Small Jar
 Bowl
-Blender brr
 Mortar
 Pot
 # Ingredients
@@ -26,3 +25,4 @@ Calming Decotion
 Cold Mix
 Health Gel
 Immunity Boost Syrup
+Pomegranate Seeds
