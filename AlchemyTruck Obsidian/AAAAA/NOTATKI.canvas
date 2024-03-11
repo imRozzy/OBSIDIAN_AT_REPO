@@ -9,7 +9,11 @@
 		{"id":"4ef6607f26ef4a02","type":"text","text":"truck ma świadomość","x":-340,"y":225,"width":250,"height":60},
 		{"id":"4e19c19447c700be","type":"file","file":"wszystkie obrazy/Pasted image 20240227193157.png","x":-300,"y":322,"width":186,"height":186},
 		{"id":"0c92cc69e95dab9b","type":"file","file":"wszystkie obrazy/Pasted image 20240227193007.png","x":-522,"y":241,"width":182,"height":182},
-		{"id":"f51868e477b4ad06","x":-364,"y":-720,"width":250,"height":118,"type":"text","text":"na razie zamiast ikonek kwadraty z nazwami, które potem podmienimy obrazkami?"}
+		{"id":"f51868e477b4ad06","type":"text","text":"na razie zamiast ikonek kwadraty z nazwami, które potem podmienimy obrazkami?","x":-364,"y":-720,"width":250,"height":118},
+		{"id":"90938ca16b032e02","type":"link","url":"https://assets.clip-studio.com/en-us/detail?id=1891176","x":329,"y":-1120,"width":400,"height":400},
+		{"id":"d83c5e45d1cd9c83","type":"link","url":"https://tips.clip-studio.com/en-us/articles/3714","x":40,"y":-1120,"width":400,"height":400},
+		{"id":"5cf510afe5af8091","type":"link","url":"https://assets.clip-studio.com/en-us/detail?id=1761353","x":640,"y":-1120,"width":400,"height":400},
+		{"id":"bd5cd1084666d82b","type":"link","url":"https://assets.clip-studio.com/en-us/detail?id=1598927","x":920,"y":-1120,"width":400,"height":400}
 	],
 	"edges":[]
 }

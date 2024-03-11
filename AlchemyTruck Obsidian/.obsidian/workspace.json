@@ -12,11 +12,14 @@
             "id": "9618edccc90ff1c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Crafting/Recipe Book.md",
-                "mode": "source",
-                "source": false
+                "file": "AAAAA/NOTATKI.canvas",
+                "viewState": {
+                  "x": 653.4504145536439,
+                  "y": -517.5992267395652,
+                  "zoom": -1.5000000000000002
+                }
               }
             }
           }
@@ -108,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crafting/Recipe Book.md",
+                "file": "AAAAA/NOTATKI.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crafting/Recipe Book.md",
+                "file": "AAAAA/NOTATKI.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crafting/Recipe Book.md"
+                "file": "AAAAA/NOTATKI.canvas"
               }
             }
           }
@@ -171,14 +174,14 @@
   },
   "active": "9618edccc90ff1c0",
   "lastOpenFiles": [
+    "Sprites List.md",
     "Item List - icons needed.md",
     "AAAAA/NOTATKI.canvas",
+    "TRUCK/inspriacje.canvas",
     "Crafting/Recipe Book.md",
     "Crafting/Ingredientssss.canvas",
-    "Sprites List.md",
     "Lokacje/1_Konogal/PLAN MIASTA.canvas",
     "wszystkie obrazy/Konogal.png",
-    "TRUCK/inspriacje.canvas",
     "Lokacje/1_Konogal/Konogal board.canvas",
     "Lokacje/2_Corsarn/Corsarn board.canvas",
     "wszystkie obrazy/korsarn.png",
